@@ -1,3 +1,123 @@
+讨论二元函数的连续性，方法之一
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624202045095.png" alt="image-20210624202045095" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624202104888.png" alt="image-20210624202104888" style="zoom:67%;" />
+
+求偏导数时的注意事项
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624202305899.png" alt="image-20210624202305899" style="zoom:67%;" />
+
+这与在单变量函数求导时的情况十分相似
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624202527272.png" alt="image-20210624202527272" style="zoom:67%;" />
+
+当用公式求出的偏导数在所给点处无意义而恰好又要求所给点处的偏导数时，应使用定义计算
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624202630718.png" alt="image-20210624202630718" style="zoom:67%;" />
+
+注意自变量的位置，当我们确定其中一个量为自变量时，剩下的所谓“变量”都会变为常数，例如
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624202944311.png" alt="image-20210624202944311" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624203058718.png" alt="image-20210624203058718" style="zoom:67%;" />
+
+一道反过来求偏导数的题目
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624203300382.png" alt="image-20210624203300382" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624203319169.png" alt="image-20210624203319169" style="zoom:67%;" />
+
+上题中，我们相当于要从显函数 $x(u,v)$ 找出隐函数 $u(x,y)$ 和 $v(x,y)$
+
+一个由欧拉发现的齐次定理
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624204511917.png" alt="image-20210624204511917" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624204537381.png" alt="image-20210624204537381" style="zoom:67%;" />
+
+这类题目的解题技巧主要在于先用变量替换，然后在两侧对 $t$ 求导，在这里仍然需要强调的是，当我们在对一个自变量求导时，其他的自变量都会被视作是常数。
+
+
+
+隐函数的求导法则，两个公式
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624204919550.png" alt="image-20210624204919550" style="zoom:67%;" />
+
+隐函数存在性的讨论
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624205119811.png" alt="image-20210624205119811" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624205250516.png" alt="image-20210624205250516" style="zoom:67%;" />
+
+求两平面交线在 $xOy$ 平面上投影和求其偏导数的方法异曲同工，都是联立方程以后消去 $z$ 得到平面方程，在下面的例子中，由于直线需要三个参数，因此我们取其中一个参数为 $x$ 来计算曲线的各项偏导数
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624205931944.png" alt="image-20210624205931944" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624214032607.png" alt="image-20210624214032607" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624214051026.png" alt="image-20210624214051026" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624214224307.png" alt="image-20210624214224307" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624214346125.png" alt="image-20210624214346125" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624214735291.png" alt="image-20210624214735291" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624215127577.png" alt="image-20210624215127577"  />
+
+注意平面束方程的应用
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624215945848.png" alt="image-20210624215945848" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624220045167.png" alt="image-20210624220045167" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624220220858.png" alt="image-20210624220220858" style="zoom:67%;" />
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624220252113.png" alt="image-20210624220252113"  />
+
+‘-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 面积分时，复杂函数的处理对策
 
 1.变量替换，例如
