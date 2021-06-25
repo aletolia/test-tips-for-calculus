@@ -150,7 +150,7 @@ $cosnx=(-1)^n$ $sin(n\pi+t)=(-1)^nsint$
 
 注意 $a_{2n-1}-a_{2n}=(a_1-a_2)+(a_3-a_4)……$ 和 $(-1)^na_n=a_1-a_2+a_3-a_4……$ 之间的联系
 
-
+![img](https://bkimg.cdn.bcebos.com/pic/c2cec3fdfc0392458b10a49e8794a4c27c1e25fd?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto)
 
 
 
