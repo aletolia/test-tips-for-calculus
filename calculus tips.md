@@ -76,48 +76,6 @@
 
 <img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624220252113.png" alt="image-20210624220252113"  />
 
-‘-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 面积分时，复杂函数的处理对策
 
 1.变量替换，例如
