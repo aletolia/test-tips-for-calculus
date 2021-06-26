@@ -154,6 +154,80 @@ $cosnx=(-1)^n$ $sin(n\pi+t)=(-1)^nsint$
 
 
 
+$$
+∫tanx（secx）^2xdx=∫tanxd（tanx）
+=tanxtanx-∫tanxd（tanx）=tan^2x-∫tanx（secx）^2dx
+$$
+
+
+![image-20210626094628760](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626094628760.png)
+
+![image-20210626094716391](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626094716391.png)
+
+![image-20210626094757112](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626094757112.png)
+
+求解幂级数和函数的典型例题
+
+1.直接求导+放入变限积分中积分求解
+
+![image-20210626095241431](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626095241431.png)
+
+2.直接求导行不通时，通过增减指数，系数配方至可以求导，再放入变限积分中求解（注意在提出系数时，$x$  不能为 $0$ ，因此要单独讨论）
+
+![image-20210626100840536](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626100840536.png)
+
+![image-20210626101250378](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626101250378.png)
+
+![image-20210626101640745](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626101640745.png)
+
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626101808195.png" alt="image-20210626101808195" style="zoom:67%;" />
+
+
+
+等比数列求和是求前$n$项的和。 等比级数求和是求所有项的和。 如果令项数$n$趋于无穷，那两者是一样的。 前$n$项和为： $S_n=a_1(1-q^n)/(1-q)$ 在$|q|<1$的情况下，$q^n$是趋于0的。
+
+![image-20210626102712708](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626102712708.png)
+
+![img](https://iknow-pic.cdn.bcebos.com/79f0f736afc3793185d3e948fbc4b74543a91113?x-bce-process%3Dimage%2Fresize%2Cm_lfit%2Cw_600%2Ch_800%2Climit_1%2Fquality%2Cq_85%2Fformat%2Cf_jpg)
+
+![image-20210626102958953](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626102958953.png)
+
+
+
+![img](https://img-blog.csdn.net/20180707110841574?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RhbnRpYW82NjY=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+![img](https://pic3.zhimg.com/80/v2-3da1fbfe79c2beefb6d0c4e4cbe18dee_720w.jpg)
+
+
+
+有隐函数组：
+
+![img](https://pic3.zhimg.com/80/v2-6309b7adf50668fc68628c45e677d3c6_720w.jpg)
+
+则：
+
+![img](https://pic3.zhimg.com/80/v2-6846a1dafd9ddbf121277cffb11b52f6_720w.jpg)
+
+两边对于x求导
+
+![img](https://pic1.zhimg.com/80/v2-39cef8adfe6cb4d2c55b9a50d5154814_720w.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
