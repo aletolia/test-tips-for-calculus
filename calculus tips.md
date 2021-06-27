@@ -64,7 +64,7 @@
 
 <img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624214735291.png" alt="image-20210624214735291" style="zoom:67%;" />
 
-<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624215127577.png" alt="image-20210624215127577"  />
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624215127577.png" alt="image-20210624215127577" style="zoom: 150%;" />
 
 注意平面束方程的应用
 
@@ -74,7 +74,15 @@
 
 <img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624220220858.png" alt="image-20210624220220858" style="zoom:67%;" />
 
-<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624220252113.png" alt="image-20210624220252113"  />
+<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210624220252113.png" alt="image-20210624220252113" style="zoom: 150%;" />
+
+![image-20210626105707100](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626105707100.png)
+
+![image-20210626105723340](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626105723340.png)
+
+![image-20210626105823824](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626105823824.png)
+
+![image-20210626105847132](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626105847132.png)
 
 面积分时，复杂函数的处理对策
 
@@ -168,7 +176,7 @@ $$
 
 求解幂级数和函数的典型例题
 
-1.直接求导+放入变限积分中积分求解
+1.直接求导 +放入变限积分中积分求解
 
 ![image-20210626095241431](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210626095241431.png)
 
@@ -212,7 +220,7 @@ $$
 
 ![img](https://pic1.zhimg.com/80/v2-39cef8adfe6cb4d2c55b9a50d5154814_720w.jpg)
 
-
+ 
 
 
 
